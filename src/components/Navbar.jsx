@@ -43,7 +43,7 @@ const Navbar = () => {
                   <PartyPopper className="w-6 h-6 text-white" />
                 </div>
                 <span className="font-serif tracking-tight font-normal ">
-                  A Little Party Co
+                  A Little Party Co.
                 </span>
               </a>
             </div>
