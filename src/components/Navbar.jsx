@@ -42,7 +42,7 @@ const Navbar = () => {
                 <div className="bg-gradient-to-r from-purple-600 to-pink-600 p-2 rounded-lg group-hover:scale-110 transition-transform">
                   <PartyPopper className="w-6 h-6 text-white" />
                 </div>
-                <span className="font-serif tracking-tight">
+                <span className="font-serif tracking-tight font-normal ">
                   A Little Party Co
                 </span>
               </a>
