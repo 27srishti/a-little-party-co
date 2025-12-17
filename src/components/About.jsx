@@ -17,7 +17,7 @@ const About = () => {
           >
             <div className="relative z-10 rounded-[2rem] overflow-hidden border border-white/10 shadow-2xl">
               <img
-                src="https://instasize.com/api/image/42ef914419cb4a46cbafb72c339fe9662dde8f84bcb8e5060d59a2b143d1f78e.png"
+                src="https://lh3.googleusercontent.com/p/AF1QipNuLShuiqHYLiJHI6ZA-bGbqEybqpYaKCDd0-0i=s1360-w1360-h1020-rw"
                 alt="A Little Party Co Team"
                 className="w-full h-auto object-cover  hover:grayscale-0 transition-all duration-700"
               />
